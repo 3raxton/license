@@ -1,0 +1,18 @@
+body {
+  background: #121212;
+  color: #A9A9A9;
+  font-size: 20px;
+}
+
+h1, h4, p {
+  font-family: "Inconsolata", monospace;
+}
+
+p {
+  font-size: 20px;
+}
+
+.container {
+  margin-top: 5%;
+  max-width: 800px;
+}
