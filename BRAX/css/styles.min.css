@@ -1,0 +1,22 @@
+body {
+  background: #000000;
+  color: #ffffff;
+}
+
+.tab { 
+  margin-left: 40px; 
+}
+
+h1, h4, p {
+  font-family: serif;
+  color: #ffffff;
+}
+
+p {
+  font-size: 20px;
+}
+
+.container {
+  margin-top: 5%;
+  max-width: 800px;
+}
